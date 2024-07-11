@@ -12,4 +12,10 @@ You have to be in OOP paradigm to use this strategy because you have to use enca
 
 ### What is the main purpose of building a strategy pattern ? 
 
-It will simply make it easier for developers to have a flexible and maintanable code to build an application.
+It will simply make it easier for developers to have a flexible and maintanable code to build an application. This project is a simple application based on this project so it doesn't confuse me
+
+
+## Example in image ( Find on internet ) 
+
+
+![strategypattern](https://github.com/alexisr91/Strategy-pattern/assets/160608635/1aebac1d-75d3-49fa-b09f-9792375cfcc7)
